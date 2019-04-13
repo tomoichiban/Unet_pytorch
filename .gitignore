@@ -33,3 +33,4 @@ dist/
 /unet/image/
 /unet/loss_y
 /unet/__pycache__
+Unet_param
